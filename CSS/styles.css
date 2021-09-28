@@ -1,0 +1,40 @@
+
+.main-container{
+    border: 1px solid black;
+    text-align: center;
+}
+.main-container h1{
+    color: darkorange;
+    background-color: black;
+}
+
+
+.btn-generator{
+    background-color: chartreuse;
+    color: white;
+    text-decoration: none;
+    text-transform:capitalize ;
+    width: 80px;
+    height: 40px;
+    border: none;
+    border-radius:3px ;
+    margin-bottom: 10px;
+}
+.btn-generator:hover{
+    background-color: darkgreen;
+}
+
+.flex-container{
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flex-container img{
+    width: 250px;
+    margin: 6px;
+}
+
+
+
